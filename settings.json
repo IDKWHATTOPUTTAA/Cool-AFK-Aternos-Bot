@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "oscac.aternos.me",
+    "ip": "oscac.aternos.me:32349",
     "port": 32349,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
