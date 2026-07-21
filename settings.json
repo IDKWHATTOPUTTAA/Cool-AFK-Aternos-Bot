@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AFKBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "oscac.aternos.me",
+    "port": 32349,
     "version": "",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -73,8 +73,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1529265110000865381/_NUzME909d3ojj1-B7X-hL6cGy98Ib7dG_oP9easZQhsjlN5A3ExkLkwdn5e2-M-KIxJ",
     "events": {
       "connect": true,
       "disconnect": true,
